@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Seagrampearce]]></title>
+        <description><![CDATA[Seagrampearce]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 21:45:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spain]]></title>
+            <description><![CDATA[<article><h1>Spain</h1><p>Images from Spain</p></article>]]></description>
+            <link>undefinedspain/index.html</link>
+            <guid isPermaLink="false">b6b2bf44-b152-430c-a045-74b32e0f5dab</guid>
+            <pubDate>Mon, 23 Nov 2015 21:44:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
