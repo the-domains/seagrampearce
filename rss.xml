@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Seagrampearce]]></title>
         <description><![CDATA[Seagrampearce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seagrampearce/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 21:45:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 21:45:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seagrampearce/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cape Town]]></title>
+            <description><![CDATA[<h1>Cape Town</h1>]]></description>
+            <link>https://thegrid.ai/seagrampearce/cape-town/index.html</link>
+            <guid isPermaLink="false">94f7870a-7867-415b-bc6b-559859888e50</guid>
+            <pubDate>Mon, 23 Nov 2015 21:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spain]]></title>
-            <description><![CDATA[<article><h1>Spain</h1><p>Images from Spain</p></article>]]></description>
-            <link>undefinedspain/index.html</link>
+            <description><![CDATA[<h1>Spain</h1>]]></description>
+            <link>https://thegrid.ai/seagrampearce/spain/index.html</link>
             <guid isPermaLink="false">b6b2bf44-b152-430c-a045-74b32e0f5dab</guid>
             <pubDate>Mon, 23 Nov 2015 21:44:44 GMT</pubDate>
         </item>
